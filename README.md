@@ -34,7 +34,7 @@ To identify key drivers of profit and loss, understand customer segments and reg
 
 | File | Description |
 |------|-------------|
-| `Sales_Performance_Analysis.ipynb` | Main Colab notebook containing full EDA, visualizations, and business analysis |
+| `sales_dataanalyst.ipynb` | Main Colab notebook containing full EDA, visualizations, and business analysis |
 | `README.md` | Project summary and documentation |
 
 ---
